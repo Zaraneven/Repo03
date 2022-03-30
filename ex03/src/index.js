@@ -1,8 +1,6 @@
 function main() {
 
- var forCat;   
-    
-    
+    var forCat;
 }
 
 console.log(main());
