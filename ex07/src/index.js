@@ -4,9 +4,9 @@ var studlyCapVar;
 var properCamelCase;
 var titleCaseOver;
 
-var studlyCapVar = 10;
-var properCamelCase = "A string";
-var titleCaseOver = 9000;
+studlyCapVar = 10;
+properCamelCase = "A string";
+titleCaseOver = 9000;
 
 return {
     studlyCapVar,
