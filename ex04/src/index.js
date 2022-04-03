@@ -2,7 +2,7 @@ function main() {
 
     var x = 10;
     var y = 10;
-    x = y;
+    y = x;
     
     return [x,y];
 }
